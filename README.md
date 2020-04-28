@@ -16,3 +16,5 @@ Run command : `$python bw_convert.py <image_file_name>`
 Example:
 
 `$python bw_convert.py sample_image.jpg`
+
+This duplicates `sample_image.jpg` and then converts it to/saves it as `bw_sample_image.png` in the same directory.
