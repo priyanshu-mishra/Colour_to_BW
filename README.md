@@ -3,14 +3,16 @@ A Python script to convert a coloured image into a Black and White version of th
 
 A simple python script which takes colored image filename as argument and converts it into grayscale image and saves the output image file. It shows the basic usage of Pillow library.
 
-Libraries Required
+Libraries Required:
 Pillow (PIL) 
-$pip install Pillow
+
+`$pip install Pillow`
 
 Usage
 Go to the script's folder and open the terminal/command prompt.
 
-Run command : $python bw_convert.py <image_file_name>
+Run command : `$python bw_convert.py <image_file_name>`
 
-Example
-$python bw_convert.py sample_image.jpg
+Example:
+
+`$python bw_convert.py sample_image.jpg`
